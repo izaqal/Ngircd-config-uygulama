@@ -1,0 +1,1 @@
+# Ngircd-config-uygulama
